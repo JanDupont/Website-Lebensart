@@ -9,6 +9,10 @@ import Icon7 from '../../images/gutschein.jpeg';
 import Icon8 from '../../images/pralinen2.jpeg';
 import Icon9 from '../../images/Lebensart_Dupont_Tischdeko.jpg';
 import Icon10 from '../../images/Lebensart_Dupont_Dips.jpg';
+import Icon11 from '../../images/LebensArt_Dupont_Nudeln.jpg'
+import Icon12 from '../../images/Lebensart_Dupont_Tee.jpg'
+import Icon13 from '../../images/Lebensart_Dupont_Senf.jpg'
+import Icon14 from '../../images/Lebensart_Dupont_Spueltuch.jpg'
 import { ServicesContainer, ServicesH1, ServicesWrapper, ServicesCard, ServicesIcon, ServicesH2, ServicesP } from './ServicesElements';
 
 const Services = () => {
@@ -32,12 +36,32 @@ const Services = () => {
                     <ServicesP></ServicesP>
                 </ServicesCard>
                 <ServicesCard>
+                    <ServicesIcon src={Icon11}/>
+                    <ServicesH2>Pasta & Pesto</ServicesH2>
+                    <ServicesP></ServicesP>
+                </ServicesCard>
+                <ServicesCard>
                     <ServicesIcon src={Icon10}/>
                     <ServicesH2>Dips | Gewürzmischungen</ServicesH2>
                 </ServicesCard>
                 <ServicesCard>
+                    <ServicesIcon src={Icon13}/>
+                    <ServicesH2>Senfe | Senfmühle</ServicesH2>
+                    <ServicesP></ServicesP>
+                </ServicesCard>
+                <ServicesCard>
                     <ServicesIcon src={Icon8}/>
                     <ServicesH2>Pralinen | Schokoladen</ServicesH2>
+                    <ServicesP></ServicesP>
+                </ServicesCard>
+                <ServicesCard>
+                    <ServicesIcon src={Icon12}/>
+                    <ServicesH2>Tee | Zubehör</ServicesH2>
+                    <ServicesP></ServicesP>
+                </ServicesCard>
+                <ServicesCard>
+                    <ServicesIcon src={Icon14}/>
+                    <ServicesH2>nachhaltig | vegan</ServicesH2>
                     <ServicesP></ServicesP>
                 </ServicesCard>
                 <ServicesCard>

@@ -34,7 +34,7 @@ export const homeObjTwo = {
                     <br/>,
                     '-Pakete zu uns senden lassen:',
                     <br/>,
-                    '1) auf ', <a href="https://www.paket.de" target="_blank" rel="noopener noreferrer">www.paket.de</a>, ' registrieren',
+                    '1) auf ', <a href="https://www.dhl.de/de/privatkunden.html" target="_blank" rel="noopener noreferrer">www.dhl.de/de/privatkunden</a>, ' registrieren',
                     <br/>,
                     '2) Straßen Name: 422 LebensArt Hermeskeil'
                 ],
