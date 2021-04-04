@@ -43,6 +43,26 @@ export const ImgBg = styled.img`
     background: #232a34;
 `;
 
+export const ImgHeroKlein = styled.img`
+    
+    margin-top: -400px;
+    max-width: 400px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    @media screen and (max-width: 768px){
+        max-width: 300px;
+        margin-top: -230px;
+    }
+    @media screen and (max-width: 480px){
+        max-width: 300px;
+        margin-top: -230px;
+    }
+    @media screen and (max-width: 330px){
+        max-width: 250px;
+        margin-top: -200px;
+    }
+`;
+
 export const HeroContent = styled.div`
     z-index: 3;
     max-width: 1200px;
