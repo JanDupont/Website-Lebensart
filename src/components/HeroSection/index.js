@@ -25,7 +25,6 @@ const HeroSection = () => {
                 <ImgBg src={Bild} />
             </HeroBg>
             <HeroContent>
-                <ImgHeroKlein src={Bild_Ostern} />
                 {//<HeroP style={{background: "rgba(219, 124, 116, 0.6)", padding: "15px", borderRadius: "10px"}}>
                  //</HeroP>
                 }
