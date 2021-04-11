@@ -26,12 +26,25 @@ const InfoSectionMap = () => {
                                 <Subtitle darkText="false"><strong>Di, Do, Fr: </strong> 10.00-11:30 Uhr und 15:00-19:00 Uhr
                                     <br />
                                     <strong>Mi: </strong>10:00-11:30 Uhr
-                                     <br />
-                                     <strong>Sa: </strong>10:00-13:00 Uhr
-                                     <br />
+                                    <br />
+                                    <strong>Sa: </strong>10:00-13:00 Uhr
+                                    <br />
                                     oder tel. Terminabsprache
                                     <br />
                                     06503/8933
+                                    <br />
+                                    <br />
+                                    <strong>Corona-Situation</strong>
+                                    <br />
+                                    Entsprechende Hygienevorkehrungen sind getroffen.
+                                    <br />
+                                    Halten Sie bitte Abstand.
+                                    <br />
+                                    Mundschutz- /Nasenbedeckungen ausschließlich OP-Masken und FFP2-Masken tragen!
+                                    <br />
+                                    Vielen Dank für Ihr Verständnis.
+                                    <br />
+                                    Bleiben Sie gesund!
                                 </Subtitle>
                             </TextWrapper>
                         </Column1>

@@ -14,12 +14,12 @@ import {
     Img
 } from './InfoElements'
 
-const InfoSection = ({ lightBg, id, imgStart, topLine, lightText, headline, darkText, description, img, alt}) => {
+const InfoSection = ({ lightBg, id, imgStart, mobileImgStart, topLine, lightText, headline, darkText, description, img, alt}) => {
     return (
         <>
             <InfoContainer lightBg={lightBg} id={id}>
                 <InfoWrapper>
-                    <InfoRow imgStart={imgStart}>
+                    <InfoRow imgStart={imgStart} mobileImgStart={mobileImgStart}>
                         <Column1>
                             <TextWrapper>
                                 <TopLine>{topLine}</TopLine>
