@@ -57,7 +57,7 @@ export const homeObjNews = {
     headline: 'Neues',
     description: [
         '🥰 13. Mai ist Vatertag ♨️🌭🎁', <br/>,
-        "Auch für die weltbesten Papa's findet ihr besondere Geschenke bei uns.",
+        "Auch für die weltbesten Papa's findet ihr besondere Geschenke bei uns.",<br/>,
         'Gutscheine', <br/>,
         'jetzt schon vorbestellen:', <br/>,
         '☎️ 06503 8933'
