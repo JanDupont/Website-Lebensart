@@ -34,6 +34,11 @@ const HeroSection = () => {
                     Feinkost, Deko & Geschenke
                     <br/>
                     geschmackvoll schenken & genießen
+                    <br/>
+                    <br/>
+                    Mittwoch, 12.5.2021 <br/>
+                    geöffnet<br/>
+                    10:00-11:30 & 15:00-19:00 Uhr
                 </HeroP>
             </HeroContent>
         </HeroContainer>
