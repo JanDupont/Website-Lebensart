@@ -56,15 +56,15 @@ export const homeObjNews = {
     topLine: 'News',
     headline: 'Neues',
     description: [
-        '🥰 13. Mai ist Vatertag ♨️🌭🎁', <br/>,
-        "Auch für die weltbesten Papa's findet ihr besondere Geschenke bei uns.",<br/>,
-        'Gutscheine', <br/>,
-        'jetzt schon vorbestellen:', <br/>,
-        '☎️ 06503 8933'
+        'So schmeckt der Frühling!🌈🌿🌞', <br/>,
+        "Frühjahrsboten & Sommervorfreude mit unseren feinen und leckeren Köstlichkeiten.",<br/>,
+        'Verwandeln Sie Ihre Salate in erfrischende Highlights. Verfeinern Sie Ihre Hauptgerichte mit tollen Senfen, Chutneys, Gewürzen, Dips und Saucen.', <br/>,
+        'So wird die Frühlingsküche zum Hochgenuss.', <br/>,
+        'Da ist für jeden Geschmack was dabei.'
     ],
     imgStart: true,
     mobileImgStart: true,
-    img: require('../../images/LebensArt_Vatertag.jpg').default,
+    img: require('../../images/LebensArt_Fruehling.jpg').default,
     alt: 'Bild über Neuigkeiten',
     dark: true,
     primary: false,
