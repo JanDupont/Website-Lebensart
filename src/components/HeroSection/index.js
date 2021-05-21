@@ -26,7 +26,7 @@ const HeroSection = () => {
             </HeroBg>
             <HeroContent>
                 {<HeroP style={{background: "rgba(235,89,90,0.6)", padding: "15px", borderRadius: "10px"}}>
-                    Mittwoch, 25. Mai 2021 geschlossen
+                    Dienstag, 25. Mai 2021 geschlossen
                  </HeroP>
                 }
                 <br/>
