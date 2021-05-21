@@ -25,8 +25,9 @@ const HeroSection = () => {
                 <ImgBg src={Bild} />
             </HeroBg>
             <HeroContent>
-                {//<HeroP style={{background: "rgba(219, 124, 116, 0.6)", padding: "15px", borderRadius: "10px"}}>
-                 //</HeroP>
+                {<HeroP style={{background: "rgba(235,89,90,0.6)", padding: "15px", borderRadius: "10px"}}>
+                    Mittwoch, 25. Mai 2021 geschlossen
+                 </HeroP>
                 }
                 <br/>
                 <HeroH1>LebensArt</HeroH1>
