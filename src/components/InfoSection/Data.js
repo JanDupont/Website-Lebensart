@@ -56,15 +56,17 @@ export const homeObjNews = {
     topLine: 'News',
     headline: 'Neues',
     description: [
-        'So schmeckt der Frühling!🌈🌿🌞', <br/>,
-        "Frühjahrsboten & Sommervorfreude mit unseren feinen und leckeren Köstlichkeiten.",<br/>,
-        'Verwandeln Sie Ihre Salate in erfrischende Highlights. Verfeinern Sie Ihre Hauptgerichte mit tollen Senfen, Chutneys, Gewürzen, Dips und Saucen.', <br/>,
-        'So wird die Frühlingsküche zum Hochgenuss.', <br/>,
-        'Da ist für jeden Geschmack was dabei.'
+        '💞💕💞💕 traut euch 💞💕💞💕', <br/>,<br/>,
+        "Es ist wieder Hochzeits-Zeit!",<br/>,
+        'Noch auf der Suche nach einem individuellen', <br/>,
+        'und geschmackvollen Geschenk?', <br/>,
+        'Schaut vorbei, bei LebensArt findet ihr das', <br/>,
+        'passende Geschenk oder einen besonderen', <br/>,
+        'Hochzeits-Gutschein. 💞💕💞💕💞💕💞'
     ],
     imgStart: true,
     mobileImgStart: true,
-    img: require('../../images/LebensArt_Fruehling.jpg').default,
+    img: require('../../images/LebensArt_Hochzeit.jpg').default,
     alt: 'Bild über Neuigkeiten',
     dark: true,
     primary: false,
