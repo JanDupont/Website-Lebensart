@@ -56,11 +56,11 @@ export const homeObjNews = {
     topLine: 'News',
     headline: 'Neues',
     description: [
-        '❗Ab', <strong style={{color: '#CC1010'}}> Dienstag </strong>, 'den 14.09.2021 wieder', <strong style={{color: '#CC1010'}}>geöffnet❗</strong>, <br/>,<br/>,
+        '❗Ab', <strong style={{color: '#CC1010'}}> Dienstag, </strong>, 'den 14.09.2021, wieder', <strong style={{color: '#CC1010'}}> geöffnet❗</strong>, <br/>,<br/>,
     ],
     imgStart: true,
     mobileImgStart: true,
-    img: require('../../images/LebensArt_Dupont_Oeffnungszeiten.jpg').default,
+    img: require('../../images/LebensArt-Hermeskeil_Herbst_2.jpg').default,
     alt: 'Bild über Neuigkeiten',
     dark: true,
     primary: false,

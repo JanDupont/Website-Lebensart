@@ -29,7 +29,7 @@ const InfoSection = ({ lightBg, id, imgStart, mobileImgStart, topLine, lightText
                         </Column1>
                         <Column2>
                             <ImgWrap>
-                                <Img src={img} alt={alt} />
+                                <Img src={img} alt={alt}  />
                             </ImgWrap>
                         </Column2>
                     </InfoRow>
