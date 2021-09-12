@@ -21,10 +21,10 @@ const SignIn = () => {
                         <Form action='#'>
                             <FormH1><strong>Impressum</strong></FormH1>
                             <Text>
-                                <p>Inhaber: Martin Dupont, Rosenweg 12, 54411 Hermeskeil Tel. 06503/8933</p>
+                                <p>Inhaber: Silvia Dupont, Rosenweg 12, 54411 Hermeskeil Tel. 06503/8933</p>
                                 <br></br>
                                 <strong><p>Anbieterkennung i.S.d. TDG/MD StV sowie Verantwortlicher:</p>
-                                    <p>Martin Dupont</p>
+                                    <p>Silvia Dupont</p>
                                     <p>Lebensart</p>
                                     <p>Rosenweg 12, D-54411 Hermeskeil</p>
                                     <br></br>
