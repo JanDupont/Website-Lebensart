@@ -29,7 +29,6 @@ const InfoSectionMap = () => {
                                     <br />
                                     <strong>Sa: </strong>10:00-12:00 Uhr
                                     <br />
-                                    <br />
                                     <strong>06503/8933</strong>
                                     <br />
                                     <br />
