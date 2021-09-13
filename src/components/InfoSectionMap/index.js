@@ -27,7 +27,7 @@ const InfoSectionMap = () => {
                                     <br />
                                     <strong>Mi: </strong>10:00-11:30 Uhr
                                     <br />
-                                    <strong>Sa: </strong>10:00-13:00 Uhr
+                                    <strong>Sa: </strong>10:00-12:00 Uhr
                                     <br />
                                     oder tel. Terminabsprache
                                     <br />
