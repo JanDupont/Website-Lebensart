@@ -29,9 +29,8 @@ const InfoSectionMap = () => {
                                     <br />
                                     <strong>Sa: </strong>10:00-12:00 Uhr
                                     <br />
-                                    oder tel. Terminabsprache
                                     <br />
-                                    06503/8933
+                                    <strong>06503/8933</strong>
                                     <br />
                                     <br />
                                     <strong>Corona-Situation</strong>
